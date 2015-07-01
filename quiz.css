@@ -1,0 +1,22 @@
+ .heading {
+     text-align:center;
+ }
+ 
+ .container {
+     text-align:center;
+    width: 960px;
+    font-family:Arial;
+    margin:auto;
+}
+
+ body{
+     background-image:url(paisley.png);
+ }
+
+.font{
+  text-align:center;
+  font-family: Arial;
+  margin:auto;
+  ;
+}
+
